@@ -42,4 +42,4 @@ Example: lazymux.conf
 apt install python git
 git clone https://github.com/xprotick/xprotick
 cd xprotick
-python xprotick.
+python xprotick.py
